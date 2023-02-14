@@ -1,1 +1,4 @@
-# introduction_task
+#### Run app
+```sh
+go run main.go
+```
